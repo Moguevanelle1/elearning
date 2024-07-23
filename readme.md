@@ -31,4 +31,4 @@ Créé par Votre **Mogue Vanelle** n'hésitez pas à me contacter !
 (www.google.com) [se rendre sur google]
 
 
-![Screenshoot de la page](https://s3-alpha.figma.com/hub/file/1021836787/resized/1200x720/ec8cdfb8-527c-433e-a39c-54e06eaca1fc-cover.png)
+![Screenshoot de la page](http://lmsotfy.com/so.png)
