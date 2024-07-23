@@ -1,0 +1,17 @@
+{
+    "name": "dtsakeng/elearning",
+    "autoload": {
+        "psr-4": {
+            "Dtsakeng\\Elearning\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vanellesaagang",
+            "email": "vanellesaagang@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    }
+}
